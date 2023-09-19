@@ -1,4 +1,4 @@
-# [Speech Text Reader]()
+# [Speech Text Reader] [Link](https://shantanumurdio.github.io/speech_text_reader/)
 
 This is a simple web application that allows users to convert text into speech using the browser's built-in Text-to-Speech (TTS) capabilities. Users can select different voices and click on images with associated phrases to have them read aloud.
 
@@ -10,7 +10,7 @@ This is a simple web application that allows users to convert text into speech u
 
 ## Demo
 
-You can check out a live demo of the Speech Text Reader here: [Live Demo]()
+You can check out a live demo of the Speech Text Reader here: [Live Demo](https://shantanumurdio.github.io/speech_text_reader/)
 
 ## Features
 
